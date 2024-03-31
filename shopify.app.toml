@@ -3,7 +3,7 @@
 client_id = "94b109526e60e4bb67ded682aae4673a"
 name = "wishlist-inspire"
 handle = "wishlist-inspire-125"
-application_url = "https://symptoms-newbie-fired-quote.trycloudflare.com"
+application_url = "https://fujitsu-reservations-tu-distances.trycloudflare.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://symptoms-newbie-fired-quote.trycloudflare.com/auth/callback",
-  "https://symptoms-newbie-fired-quote.trycloudflare.com/auth/shopify/callback",
-  "https://symptoms-newbie-fired-quote.trycloudflare.com/api/auth/callback"
+  "https://fujitsu-reservations-tu-distances.trycloudflare.com/auth/callback",
+  "https://fujitsu-reservations-tu-distances.trycloudflare.com/auth/shopify/callback",
+  "https://fujitsu-reservations-tu-distances.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
